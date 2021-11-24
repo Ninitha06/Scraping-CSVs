@@ -1,4 +1,4 @@
-name,light_years_from_earth,planet_mass,stellar_magnitude,discovery_date,hyperlink,planet_type,discovery_date,mass,planet_radius,orbital_radius,orbital_period,eccentricity
+name,light_years_from_earth,planet_mass,stellar_magnitude,discovery_date,hyperlink,planet_type,temp_planet_date,temp_mass,planet_radius,orbital_radius,orbital_period,eccentricity
 11 Comae Berenices b,304,19.4 Jupiters,4.72307,2007,https://exoplanets.nasa.gov/exoplanet-catalog/6988/11-comae-berenices-b/,Gas Giant,2007,19.4 Jupiters,1.08 x Jupiter,1.29 AU,326 days,0.23
 11 Ursae Minoris b,409,14.74 Jupiters,5.013,2009,https://exoplanets.nasa.gov/exoplanet-catalog/6989/11-ursae-minoris-b/,Gas Giant,2009,14.74 Jupiters,1.09 x Jupiter,1.53 AU,1.4 years,0.08
 14 Andromedae b,246,4.8 Jupiters,5.23133,2008,https://exoplanets.nasa.gov/exoplanet-catalog/6990/14-andromedae-b/,Gas Giant,2008,4.8 Jupiters,1.15 x Jupiter,0.83 AU,185.8 days,0
